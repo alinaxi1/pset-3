@@ -21,5 +21,4 @@ if (Number.isNaN(amount)) {
 
     const pennies = Math.round(change / 0.01);
     console.log(quarters + " quarters, " + dimes + " dimes, " + nickels + " nickels, and " + pennies + " pennies.");
-
 }
